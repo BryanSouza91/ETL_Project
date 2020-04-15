@@ -9,10 +9,10 @@ Run Extract.ipynb first then Load.ipynb
 
 ### Prerequisites
 
-[JupyterLab](https://jupyterlab.readthedocs.io/en/latest/)
-[Pandas](https://pandas.pydata.org/)
-[BigQueryAPI](https://googleapis.dev/python/bigquery/latest/index.html)
-[Postgres](https://pypi.org/project/psycopg2/)
+* [JupyterLab](https://jupyterlab.readthedocs.io/en/latest/)
+* [Pandas](https://pandas.pydata.org/)
+* [BigQueryAPI](https://googleapis.dev/python/bigquery/latest/index.html)
+* [Postgres](https://pypi.org/project/psycopg2/)
 
 ```
 pip install pandas
