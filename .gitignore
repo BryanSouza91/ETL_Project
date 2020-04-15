@@ -4,3 +4,6 @@ __pycache__
 .ipynb-checkpoints
 .vscode/
 .vscode
+config/
+.pptx
+.docx
